@@ -1,5 +1,310 @@
 [
   {
+    "project_title": "Intelligent Natural Interaction Technology (INIT) Lab",
+    "department": "Computer and Information Sciences and Engineering",
+    "faculty_mentor": "Lisa Anthony, lanthony@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 2-3 students per semester",
+    "prerequisites": "Projects can be customized for background and interest of the student, pending lab needs at the time. Helpful skills (encouraged but not required) include: programming fundamentals, experimental design, data analysis, experience working with children, good people skills, attention to detail, organization, time management. High-achieving freshman encouraged to apply! Students considering graduate school strongly encouraged to apply!",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "1st semester, none unless selected for University Scholars; after trial period, $15/hour up to 10 hours per week",
+    "application_requirements": "Resume, UF unofficial transcripts, faculty interview; email all application requirements to Lisa Anthony, lanthony@cise.ufl.edu, to request an interview",
+    "application_deadline": "applications are accepted on a rolling basis, but first come first served (recommend: Mar 15 or July 1 for Fall, Nov 15 for Spring, Mar 15 for Summer)",
+    "website": "http://init.cise.ufl.edu",
+    "project_description": "Our lab focuses on advanced interaction technologies such as touch, gesture, voice, and mixed reality, in the context of human-AI interaction, education, healthcare, and serious games. Many of our projects emphasize children and/or families as a unique user group. Our projects advance human-computer interaction (HCI) research questions of how users want to interact with these natural modalities, and computer science research questions of how to build recognition algorithms that can understand user input in these ambiguous modalities. Top priorities currently: (a) designing intelligent chatbots for mobile health monitoring apps; (b) designing digital AI assistants to help novice users complete more expert tasks; and (c) designing human-centered interactive machine learning interfaces.",
+    "ph.d._student_mentor(s)": "TBD based on project and availability",
+    "contact_email": "lanthony@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_1"
+  },
+  {
+    "project_title": "Modeling Dialogue for Supporting Learning",
+    "department": "Computer and Information Sciences and Engineering",
+    "faculty_mentor": "Kristy Boyer, keboyer@ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 2 students per semester",
+    "prerequisites": "Projects can be customized according to background of student. Java I and Java II already completed is strongly preferred, and completion of Data Structures will open the most possibilities for a student in our lab. Nonetheless, high-achieving freshmen should not hesitate to apply.",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "$10 per hour. Hours per week flexible.",
+    "application_requirements": "Resume, UF unofficial transcripts, faculty interview; email resume, transcript, and cover letter to Timothy Brown, timothy.brown@ufl.edu",
+    "application_deadline": "We conduct interviews on a rolling basis. Interested applicants may apply anytime.",
+    "website": "https://www.cise.ufl.edu/research/learndialogue/",
+    "project_description": "Dialogue is one of the most effective ways for people to learn. We ask questions, give and receive advice, and clarify our understanding. Building computational models of dialogue for learning is a crucial step on the path toward effectively supporting all students through intelligent learning environments. This project focuses on understanding and modeling that dialogue.",
+    "ph.d._student_mentor(s)": "Mentor will be selected to best fit the undergraduate applicant.",
+    "contact_email": "keboyer@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_2"
+  },
+  {
+    "project_title": "Validating the use of wearable technology and machine learning for exposure assessment of workers to uneven surfaces",
+    "department": "Computer and Information Science and Engineering, Industrial and Systems Engineering, & Electrical and Computer Engineering",
+    "faculty_mentor": "Boyi Hu, boyihu@ise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Junior, Senior, 1-2 students per semester.",
+    "prerequisites": "Project details can be developed based on student\u2019s interest and background. Students considering graduate school are especially courage to apply. Prerequisite skills include: 1) at least 1 year of programming experience (Matlab or Python preferred); 2) signal processing fundamentals; 3) machine learning fundamentals",
+    "credit": "0-3credits via EGN 4912",
+    "stipend": "$12/hour up to 20 hours per week",
+    "application_requirements": "Resume, UF unofficial transcripts, statement of research interest, faculty interview, email one pdf file of requirements to Boyi Hu, boyihu@ise.ufl.edu to request an interview",
+    "application_deadline": "N/A",
+    "website": "N/A",
+    "project_description": "The two main goals of this pilot project proposal are to: 1) determine if workers\u2019 gait behavior as measured by wearable sensors in real workplace differs significantly on different walking surfaces experienced by typical workers; and, 2) determine if artificial deep learning network algorithms can detect walking surface categories using signals from wearable sensors mounted on workers\u2019 body during typical walking tasks.",
+    "ph.d._student_mentor(s)": "TBD based on project and availability",
+    "contact_email": "boyihu@ise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_3"
+  },
+  {
+    "project_title": "Collecting Eyetracking Data on Images and Videos",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Eakta Jain, ejain@cise.ufl.edu",
+    "terms_available": "Fall, Spring",
+    "student_level": "Junior, Senior; 2 students a term",
+    "prerequisites": "programming fundamentals",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none in the first semester unless selected for University Scholar; after that hourly stipend available based on performance and fit to specific project",
+    "application_requirements": "Resume, faculty interview, attend a group meeting; email faculty at ejain@cise.ufl.edu with pdf resume to schedule interview. Make time to attend group meeting.",
+    "application_deadline": "End of add/drop period in each term",
+    "website": "jainlab.cise.ufl.edu",
+    "project_description": "Eyes are the window to the soul. Eyetracking data is a powerful source of data to understand how humans perceive visual information. We design, code, and run experimental studies to collect and analyze eyetracking data. Interested students should have good time management and organization skills, and be able to code in MATLAB.",
+    "ph.d._student_mentor(s)": "n/a",
+    "contact_email": "ejain@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_4"
+  },
+  {
+    "project_title": "Web Development and Server Management",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Eakta Jain, ejain@cise.ufl.edu",
+    "terms_available": "Fall, Spring",
+    "student_level": "Sophomore, Junior; 1 student a term",
+    "prerequisites": "HTML programming",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none in the first semester unless selected for University Scholar; hourly stipend available after that based on performance and fit to project",
+    "application_requirements": "Resume, faculty interview, attend a group meeting; email resume as pdf file to ejain@cise.ufl.edu, make time to attend group meeting",
+    "application_deadline": "End of add/drop period in each term",
+    "website": "jainlab.cise.ufl.edu",
+    "project_description": "I am looking for a web developer with an eye for detail and aesthetics to maintain databases and citizen science project pages on our web server (jainlab.cise.ufl.edu). Need to have good time management and organization skills and previous web development experience.",
+    "ph.d._student_mentor(s)": "n/a",
+    "contact_email": "ejain@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_5"
+  },
+  {
+    "project_title": "Interacting with Virtual Humans to Improve Communication Skills",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Benjamin Lok, lok@ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior; 2 students in fall/spring; 3 students in summer",
+    "prerequisites": "Data Structures, Programming",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none for starting students unless selected for University Scholars; funding opportunities for top performers",
+    "application_requirements": "https://verg.cise.ufl.edu/join-us-new/",
+    "application_deadline": "rolling deadline (you can apply at any time, however course credit is based on standard university enrollment deadlines)",
+    "website": "www.ufverg.com",
+    "project_description": "How can we improve how people talk to each other? Training better health care workers, law enforcement, business people, and educators (amongst others) will require new simulations to train and deliver important conversations. Thus we will innovate in the areas of virtual reality, human-computer interaction, natural language processing, and machine learning as to develop simulations to create virtual conversations so that people can train their communication skills and be persuaded to make health behavior choices. Students will work in teams to create interactive virtual humans that users can type, talk, and/or gesture to. If you want your work to have real world impact, this project and team is for you.",
+    "ph.d._student_mentor(s)": "Andrew Maxim, amaxim@ufl.edu",
+    "contact_email": "lok@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_6"
+  },
+  {
+    "project_title": "Big Data technologies for Actigraphy Problems",
+    "department": "Computer and Information Sciences and Engineering",
+    "faculty_mentor": "Sanjay Ranka, ranka@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Junior, Senior, 2 students per term",
+    "prerequisites": "Strong programming and algorithmic background",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars",
+    "application_requirements": "Resume, UF unofficial transcripts; email one pdf file of all documents to Sanjay Ranka, ranka@cise.ufl.edu",
+    "application_deadline": "March 1 for Summer and Fall terms; November 1 for Spring term",
+    "website": "http://www.cise.ufl.edu/~ranka",
+    "project_description": "Development of techniques for collecting, monitoring and modeling activity information of older adults and correlating them with their physical and mental health.",
+    "ph.d._student_mentor(s)": "n/a",
+    "contact_email": "ranka@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_7"
+  },
+  {
+    "project_title": "Big Data and Machine Learning",
+    "department": "Computer and Information Sciences and Engineering",
+    "faculty_mentor": "Sanjay Ranka, ranka@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Junior, Senior; 5 students per term",
+    "prerequisites": "Expertise in Data structures and Programming. Course in machine learning a plus. Example project: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1922782&HistoricalAwards=false",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars",
+    "application_requirements": "Resume, UF unofficial transcripts; email one pdf file of all documents to Sanjay Ranka, ranka@cise.ufl.edu",
+    "application_deadline": "Open",
+    "website": "http://www.cise.ufl.edu/~ranka",
+    "project_description": "Applying big-data and machine learning to applications in transportation, health care and smart cities.",
+    "ph.d._student_mentor(s)": "n/a",
+    "contact_email": "ranka@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_8"
+  },
+  {
+    "project_title": "In House Open Source Molecular and Materials Modeling Software",
+    "department": "Computer and Information Sciences and Engineering",
+    "faculty_mentor": "Meera Sitharam, sitharam@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer; ideally for an entire year",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 1 student per semester; ideally stays at least a year",
+    "prerequisites": "Should be able to read and write C++, QT openGL/webGL (or substitute object oriented/graphics programming languages); quickly pick up software such as openVolumeMesh, and program in matlab, etc.",
+    "stipend": "$15/hr up to 10 hrs a week",
+    "application_requirements": "Basic online application, faculty interview; email one pdf file with qualifications to Rahul Prabhu, rprabhu@ufl.edu",
+    "application_deadline": "rolling deadline until hired.",
+    "website": "http://www.cise.ufl.edu/~sitharam/EASALvideo.mpg",
+    "project_description": "In house Open Source Molecular and Materials Modeling Software has been developed. New theoretical results and algorithms developed by the group have to be understood, implemented as software and incorporated into the suite. The backend is in C++\u200b, the GUI is QT and webGL, other libraries such as OpenMesh and OpenVolumeMesh are used, and programming and interfacing with matlab is frequent. Many year long projects are anticipated.",
+    "ph.d._student_mentor(s)": "Rahul Prabhu, rprabhu@ufl.edu",
+    "contact_email": "sitharam@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_9"
+  },
+  {
+    "project_title": "Geometry aware Machine Learning for Computer Vision and Medical Imaging",
+    "department": "Computer and Information Sciences and Engineering",
+    "faculty_mentor": "Baba Vemuri, vemuri@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Junior, Senior; variable number of students per semester",
+    "prerequisites": "Linear Algebra, Vector Calculus, Numerical Analysis, Probability and Statistics, Proficiency in Python/MATLAB/C++",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "None initially, will depend on performance and availability of funds; university scholars",
+    "application_requirements": "Resume, UF unofficial transcripts, Faculty interview; Email one pdf file with all application requirements to Baba Vemuri; vemuri@cise.ufl.edu",
+    "application_deadline": "N/A",
+    "website": "www.cise.ufl.edu/~vemuri",
+    "project_description": "We are interested in developing algorithms and code that takes advantage of the intrinsic geometry of the space in which the data reside. The data are quite often very high dimensional and exploiting the underlying geometry leads to better algorithms. The challenge however is in developing computationally efficient algorithms while respecting the geometry of the underlying space. Most often, this geometry is non-Euclidean. Examples are abundant, for instance, diffusion tensor (magnetic resonance) images, covariance matrix-valued features used for object tracking etc.",
+    "ph.d._student_mentor(s)": "NA",
+    "contact_email": "vemuri@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_10"
+  },
+  {
+    "project_title": "Demo UI Development for Advanced QA over Knowledge Bases",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Daisy Zhe Wang, daisyw@cise.ufl.edu",
+    "terms_available": "Fall",
+    "student_level": "Junior, Senior; 1-2 students a term",
+    "prerequisites": "Past experience with UI design and development; Data Structures, Programming",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars; after a trial period: $10 per hour up to 10 hours a week",
+    "application_requirements": "Resume, UF unofficial transcripts, good GPA; email one pdf file of requirements to Daisy Zhe Wang, daisyw@cise.ufl.edu",
+    "application_deadline": "Rolling deadline effective until September 2016",
+    "website": "http://dsr.cise.ufl.edu/projects/",
+    "project_description": "Knowledge bases are used to provide QA to intelligent systems. Research has been conducted on enhancing current capabilities of knowledge bases. This project is to develop the front end of demos of different QA scenarios over such advanced KBs.",
+    "ph.d._student_mentor(s)": "Xiaofeng Zhou, xiaofengzhou@ufl.edu; Miguel Rodriguez, miguelrodriguez@ufl.edu",
+    "contact_email": "daisyw@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_11"
+  },
+  {
+    "project_title": "Data Science Application to Law, Ecology and Biomedical Domains",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Daisy Zhe Wang, daisyw@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Junior, Senior; 1-2 students a term",
+    "prerequisites": "Interest and prior knowledge in respective application domains: (1) Law (2) Ecology (3) Biomedical; data structure and programming; database and machine learning",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars; after a trial period: $10 per hour up to 10 hours a week",
+    "application_requirements": "Resume, UF unofficial transcripts, faculty interview, good GPA; email one pdf file of requirements to Daisy Zhe Wang, daisyw@cise.ufl.edu",
+    "application_deadline": "Rolling deadline effective until September 2016",
+    "website": "http://dsr.cise.ufl.edu/projects/",
+    "project_description": "Data Science extract knowledge and make prediction from big data with 5Vs. This project attempt at applying state-of-the-art data science technology to application domains such as Law, Ecology and Biomedical research in collaboration with domain researchers.",
+    "ph.d._student_mentor(s)": "n/a",
+    "contact_email": "daisyw@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_12"
+  },
+  {
+    "project_title": "Biomedical Applications of Magnetic Nanoparticles",
+    "department": "Biomedical Engineering, Chemical Engineering, Electrical Engineering, Computer Science and Engineering, Materials Science and Engineering, Mechanical Engineering",
+    "faculty_mentor": "Carlos Rinaldi-Ramos, carlos.rinaldi@ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Sophomore, Junior, 2-5 students per term (new students when positions open)",
+    "prerequisites": "Passion for science and engineering, interest in research and in advancing technology, self-driven. Students from Biomedical Engineering, Chemical Engineering, Electrical Engineering, Computer Science and Engineering, Materials Science and Engineering, and Mechanical Engineering encouraged to apply.",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars",
+    "application_requirements": "Resume and statement of research interest; email one pdf file with all application requirements to Carlos Rinaldi, carlos.rinaldi@ufl.edu",
+    "application_deadline": "March 1 for Summer and Fall terms; November 1 for Spring term",
+    "website": "http://www.bme.ufl.edu/labs/rinaldi/",
+    "project_description": "The Rinaldi lab is interested in biomedical applications of magnetic nanoparticles. We combine particle synthesis, modification, and characterization and fundamental understanding of response to magnetic actuation to advance applications in biomedical imaging, therapeutic delivery, and nanoscale thermal therapy. The research is interdisciplinary, combining concepts from biomedical, chemical, electrical, and materials science and engineering. Current efforts focus on developing tracers for magnetic particle imaging (MPI), an exciting new biomedical imaging modality that allows for non-invasive, unambiguous, and quantitative imaging of the in vivo distribution of superparamagnetic iron oxide nanoparticle tracers. This research involves nanoparticle synthesis and characterization, cell culture, animal studies, image analysis, 3D printing, and computer programming. Students interested in any of these aspects are encouraged to apply.",
+    "ph.d._student_mentor(s)": "varies",
+    "contact_email": "carlos.rinaldi@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_13"
+  },
+  {
+    "project_title": "Numerical Computing and Visualization",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Jorg Peters, jorg@cise.ufl.edu",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Sophomore, Junior, Senior; 2 students per term (new students when positions open)",
+    "prerequisites": "Discrete Math, Matlab \u2014 you will learn various geometry and graphics tools.",
+    "credit": "0-3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars",
+    "application_requirements": "Official University transcript required. Email Professor Peters if interested.",
+    "application_deadline": "Open until filled",
+    "website": "https://www.cise.ufl.edu/research/SurfLab/",
+    "project_description": "My projects change faster than this database will be updated. If you like math and computing, send me a note.",
+    "ph.d._student_mentor(s)": "varies",
+    "contact_email": "jorg@cise.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_14"
+  },
+  {
+    "project_title": "Project #1 \u2013 Spatial Audio Localization Research",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Kyla McMullen, drkyla@ufl.edu",
+    "terms_available": "Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior; 1 Student Per Semester",
+    "prerequisites": "Java Programming, Data Structures, Signal Processing would be helpful",
+    "credit": "3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars; after a trial period: $10 per hour up to 10 hours a week",
+    "application_requirements": "Resume, Faculty Interview; email Dr. McMullen (drkyla@ufl.edu) with your resume to request an interview",
+    "application_deadline": "Open until filled",
+    "website": "https://faculty.eng.ufl.edu/soundpad-lab/",
+    "project_description": "Head-related transfer functions used as digital filters show its ability to reproduce sound sources through headphones. One way to obtain HRTFs is to measure responses of spatial sound sources to probe microphones located at blocked ear entrances in an anechoic chamber. Research has shown that personalized HRTFs have many advantages over generic or non-individualized HRTFs and provide a more realistic hearing experience. Measurement is not a practical method to individualize HRTFs. We provide a numerical simulation method of individual HRTFs acquisition from 3-D scanned mesh. The project aims to collect a personalized HRTFs database to study the statistical relationship between spectral features and anthropometric features. Our research also conducts auditory perception tests for each simulated HRTF to compare the perception difference between simulated HRTFs and generic HRTFs. We also try to reduce the cone of confusion, a common phenomenon in virtual sound source localization. The simulation and mesh scan prototype pipeline already exists. Students are welcome to help research teams in the following tasks: \u25cf Participants\u2019 3-D head meshes acquisition and post-processing. \u25cf Integrating mesh postprocessing procedures. \u25cf Help team members perform perception tests and analyze data.",
+    "ph.d._student_mentor(s)": "Chenshen (Jason) Wan",
+    "contact_email": "drkyla@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_15"
+  },
+  {
+    "project_title": "Project #2 \u2013 Altering Sonic Cues to Improve Real-World Target Detection with 3D Audio",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Kyla McMullen, drkyla@ufl.edu",
+    "terms_available": "Fall, Spring, and Summer",
+    "student_level": "Junior, Senior; 1 Student Per Semester",
+    "prerequisites": "Java Programming, Data Structures",
+    "credit": "3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars; after a trial period: $10 per hour up to 10 hours a week",
+    "application_requirements": "Resume, Faculty Interview; email Dr. McMullen (drkyla@ufl.edu) with your resume to request an interview",
+    "application_deadline": "Open until filled",
+    "website": "https://faculty.eng.ufl.edu/soundpad-lab/",
+    "project_description": "3D audio, commonly referred to as spatial audio, allows users to gather various forms of information quickly. Therefore, this work aims to assist firefighters in first responder situations in improving response times and their path traversed to locations of interest, based on how the 3D audio sound is presented. To achieve this feat, it is crucial to understand what sonic cues, if any, will need to be exaggerated or minimized to receive the best outcome possible within low visibility scenarios faced by firefighters to improve their localization of various points of interest. The selected student will work closely with a graduate student to: \u2022 Conduct hands-on human-centered studies \u2022 Analyze the data collected in MATLAB \u2022 Create digestible visualizations of the data in MATLAB",
+    "ph.d._student_mentor(s)": "Armisha Roberts",
+    "contact_email": "drkyla@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_16"
+  },
+  {
+    "project_title": "Project #3 \u2013 An Augmented Reality Corsi Block-Tapping Test Framework",
+    "department": "Computer and Information Science and Engineering",
+    "faculty_mentor": "Kyla McMullen, drkyla@ufl.edu",
+    "terms_available": "Fall, Spring, and Summer",
+    "student_level": "Sophomore, Junior, Senior; 1 Student Per Semester",
+    "prerequisites": "Programming 1, Data Structures",
+    "credit": "3 credits via EGN 4912",
+    "stipend": "none unless selected for University Scholars; after a trial period: $10 per hour up to 10 hours a week",
+    "application_requirements": "Resume, Faculty Interview; email Dr. McMullen (drkyla@ufl.edu) with your resume to request an interview",
+    "application_deadline": "Open until filled",
+    "website": "https://faculty.eng.ufl.edu/soundpad-lab/",
+    "project_description": "Everyday tasks such as getting a cup from the cupboard, driving to work, or clicking icons on a computer screen, make use of the human capacity to store and recall location information. More critical tasks, such as remembering the location of anatomical structures during a surgical operation or a fire escape during a fire, make use of the same ability. The part of human memory that allows us to remember where things are in our environment is commonly referred to as spatial memory. The importance of spatial memory to human action and interactions is an area of interest in various research fields, including psychology, medicine, and human-computer interaction. One of the most used tests for measuring spatial memory is the Corsi Block-Tapping Test (CBT). While physical CBTs have been used extensively to study human spatial memory in the physical world, few CBTs have been created to examine spatial memory in virtual worlds, such as those made with virtual and augmented reality headsets. The design of a digital CBT for virtual environments could lead to a better understanding of spatial memory in such environments. It could also allow for the creation of intuitive user interfaces and a deeper understanding of human spatial memory. Research Tasks:The research team developed several augmented reality CBTs using the Microsoft Hololens. The selected student will assist in conducting subject studies relating to these CBTs. Tasks will include: \u2022 Developing an understanding of how the Microsoft Hololens works (e.g., QR code registration, spatial anchors, and mappings) \u2022 Developing an understanding of how various CBTs implemented in Augmented Reality (AR) measure aspects of spatial memory (e.g., walking versus reaching space) \u2022 Collecting data on subject performance in AR CBTs \u2022 Post-processing and analysis of subject\u2019s CBT data. The selected student may also assist in adding functionality (via the Unity game engine) to a final release of the CBT framework and porting the project to various VR devices such as the HTC Vive. While not required, familiarity with C#, Matlab, Python, and Unity will be helpful in completing the project.",
+    "ph.d._student_mentor(s)": "Terek Arce",
+    "contact_email": "drkyla@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/computer-and-information-science-and-engineering/",
+    "project_id": "computer_and_information_science_and_engineering_17"
+  },
+  {
     "project_title": "Magnetic Microsystems",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "David Arnold, darnold@ufl.edu",
@@ -14,10 +319,11 @@
     "project_description": "Research interests include -Micro/nanostructured magnetic materials -Magnetic microsystems and electromechanical transducers -Biomedical applications of magnetic systems -Compact (<100 W) power/energy systems (wireless power, energy harvesting, circuits). We are an experimental research group. Research duties may involve microfabrication, chemical/thermal processing, simulation/modeling, circuit design, system design, testing & characterization. Please visit website for descriptions of specific openings",
     "ph.d._student_mentor(s)": "Various",
     "contact_email": "darnold@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_1"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_1"
   },
   {
+    "project_title": "Food, Medicine and Supplements Safety Analysis Using Handheld Spectroscopy",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -31,10 +337,11 @@
     "project_description": "The supply chain for food and dietary supplements has become more complex, distributed, and also less secure over time. As a result, different types of fraudulent activities \u2013 e.g. adding harmful substances, re-branding of inferior products, etc., leading to integrity issues in these products have emerged as a serious concern. Every year, consumers are cheated of billions of dollars, and the monetary value of fraud in food and dietary or nutritional supplements is estimated to be over $40 billion annually. Existing solutions for analysis often require extensive sample preparation or are limited in terms of detecting different types of integrity issues. We are working on a novel authentication method based on Nuclear Quadrupole Resonance (NQR) spectroscopy, which is quantitative, non-invasive, and non-destructive. It is sensitive to small deviation in the solid-state chemical structure of a product, which changes the NQR signal properties. These characteristics are unique for different manufacturers, resulting in manufacturer-specific watermarks. We use a machine learning-based classification called support vector machines (SVMs) to verify the authenticity of products under test. This approach has been evaluated using semi-custom hardware. We are also working on making a portable setup of the entire setup.",
     "ph.d._student_mentor(s)": "Naren Vikram Raj Masna",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_2"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_2"
   },
   {
+    "project_title": "Machine Learning for Verifying Trustworthiness of Electronics",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -48,10 +355,11 @@
     "project_description": "Malicious modification of integrated circuits known as hardware Trojans have become a serious concern today with the globalization of the IC supply chain. In this project, we are looking to apply machine learning techniques to help in verifying trustworthiness by identifying potential malicious structures in electronics procured from untrusted companies. Students interested in hardware security and cybersecurity with programming background are strongly encouraged to apply. Students will become familiar with several commercial CAD tools used in industry today.",
     "ph.d._student_mentor(s)": "Tamzidul Hoque and Prabuddha Chakraborty",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_3"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_3"
   },
   {
+    "project_title": "Hardware Trojan Detection through Self-Referencing",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -65,10 +373,11 @@
     "project_description": "The fabrication process of integrated circuits (ICs) is often outsourced to foreign countries for economic advantages. In an untrusted foundry, the original design could be maliciously modified prior to fabrication also known as hardware Trojan insertion. In this project, we are looking to apply a novel \u201cself-referencing\u201d based technique that allows us to compare the fingerprint of an untrusted IC with itself, which eliminates the need of acquiring a golden signature to detect the presence of hardware Trojans. Students interested in hardware security and cybersecurity with programming and basic knowledge of electronics are strongly encouraged to apply. Students will get the experience of using various CAD tools and doing hands-on hardware experiments that are very useful in industry.",
     "ph.d._student_mentor(s)": "Tamzidul Hoque and Jonathan Cruz",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_4"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_4"
   },
   {
+    "project_title": "Secure and Reliable FPGAs",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -82,10 +391,11 @@
     "project_description": "Field Programmable Gate Arrays (FPGA) are increasingly utilized in diverse applications, such as military, health-care, automotive systems, and the Internet of Things (IoT). The security of FPGA-based designs has emerged as a critical concern due to the FPGA design files (bitstreams) being vulnerable to attacks. Bitstream obfuscation has been recently studied as a potential solution that provides the necessary protection to designs mapped onto FPGA. This approach relies on a key generation function, such as Physical Unclonable Function (PUF) to alter a mapped function both structurally and functionally. However, a fundamental problem with PUF-based key generators is that the key bits are unstable and therefore cannot provide the same desired key at all times. In this project, we will implement a robust obfuscation approach that is capable of tolerating bit-flips in the generated key. We will develop an algorithm that applies the obfuscation to designs mapped to any FPGA. Finally, we will demonstrate the robustness against bit-flips on several digital signal processing (DSP) intellectual property (IP) blocks and observed the performance under various percentages of bit-flips in the key.",
     "ph.d._student_mentor(s)": "Abdulrahman Alaql, alaql89@ufl.edu",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_5"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_5"
   },
   {
+    "project_title": "Wearable Carotid Ultrasound for Early Detection of Cardiovascular Diseases (CVDs)",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -99,10 +409,11 @@
     "project_description": "Cardiovascular disease is currently responsible for a major portion of all global deaths. Fortunately, early detection of its symptoms can greatly contribute to effective prevention. Although various methods for cardiac diagnosis exist, most of them are clinic-based, and therefore time-consuming and costly. In this project, we are working on a novel wearable ultrasonic imaging assembly for routine, easy-to-use, and economical monitoring of the carotid artery as this is a proven marker for diagnosis of cardiovascular disease. Students interested in healthcare innovations with programming and/or circuit design background are strongly encouraged to apply.",
     "ph.d._student_mentor(s)": "Sumaiya Shomaji",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_6"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_6"
   },
   {
+    "project_title": "Remote Authentication of Internet of Things (IoT) devices",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -116,10 +427,11 @@
     "project_description": "Internet of Things (IoT) has become a novel and popular paradigm in the scenario of communication, sensing, security, etc. and they have greatly impacted our lives in multiple application domains, including transportation and logistics, health care, personal, social, smart environment, and so on. The heterogeneous array of such devices in an infrastructure can greatly benefit from a hardware difficult-to-clone and a set of tamper-immune identifiers, which can be used to check the authenticity or integrity of a device. However, IoT entities are extremely vulnerable to attacks including physical tampering attacks since they are exposed and unattended in the environment for a long period of time. So, we are focusing on developing an intrinsic device identifier that captures the state of an IoT device and it can effectively reflect any physical tampering by transforming the intrinsic delay/transient current variations of boundary scan cell (BSC) paths into unique and robust signatures. This approach utilizes the boundary scan chain architecture (BSA) in integrated circuits (ICs) and printed circuit boards (PCB) \u2013 a prevalent design-for-test (DFT) structure used in majority of PCBs today. Based on a standard DFT structure, this method works for heterogeneous devices and can be conducted during runtime of the device. We will generate signatures from devices under test and evaluate their security parameters in terms of uniqueness, robustness, randomness, etc. We will also explore a protocol for the cloud server, owner, or other IoT devices in a network to verify the identity of an IoT device using the proposed approach. This policy should be able prevent attacks to extract the secret keys of a device using an efficient moving target defense mechanism that periodically shifts the challenge vectors.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_7"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_7"
   },
   {
+    "project_title": "Developing a smart connected system for detecting and mitigating air-borne pathogens",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Swarup Bhunia, swarup@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -133,8 +445,8 @@
     "project_description": "In this project, we focus on developing a closed-loop internet of things (IoT) system for sensing of air-borne pathogens and mitigating their health impact. The project will specifically focus on detecting respiratory droplets in air, potentially laden with deadly viruses, such as the novel coronavirus causing the COVID-19 disease, and then mitigating them through various mechanisms, so as to drastically reduce their infectious capability. The students will get opportunity for developing the hardware-software components of a smart wearable system in this project and testing it in the field.",
     "ph.d._student_mentor(s)": "Naren V. Masna",
     "contact_email": "swarup@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_8"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_8"
   },
   {
     "project_title": "IoT devices for Human Health and Safety",
@@ -151,8 +463,8 @@
     "project_description": "Building hardware, software, apps and web sites for wireless sensor platforms for agriculture, mosquito control and food chain safety. Existing projects include wireless WiFi solar weather stations for agriculture in Haiti and US mosquito control, bluetooth-based temperature posts for fly control for animal breeding facilities. New projects will be defined to develop wireless sensor platforms for flood and river drainage, for soil moisture, soil salinity, bluetooth-based weather stations, and water salinity measurements. Wireless mosquito traps are also a project. Also, embedded programming, custom phone apps and web software are needed for all applications.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "wre@tec.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_9"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_9"
   },
   {
     "project_title": "EdgeVPN Overlay Networks for Edge Computing",
@@ -169,8 +481,8 @@
     "project_description": "Projects are available to conduct research and software development on EdgeVPN, currently funded by the National Science Foundation. EdgeVPN is an open-source software-defined virtual private network (VPN) allowing end users to define seamlessly create a virtual Ethernet atop Internet tunnels setup and managed through a network of distributed controllers. These are applied computer systems research projects with broad applications in edge computing (computing near IoT devices), container deployment and orchestration (Docker, Kubernetes), AI applications for edge computing, and user-centric software-defined networking (SDN). The projects have an active open-source code base, collaborations with researchers in the US and abroad, and students will have opportunities to collaborate with researchers and software developers.",
     "ph.d._student_mentor(s)": "Several students in the lab",
     "contact_email": "renato@acis.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_10"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_10"
   },
   {
     "project_title": "EM-Activated Hardware Trojan",
@@ -186,8 +498,8 @@
     "project_description": "In this project, a Hardware Trojan was developed that can be activated by a specific and directed electromagnetic pulse chain. The solution uses an Antifuse and analog circuitry to drastically decrease the chance of detecting the Trojan, which makes it stealthy. Once activated, the maliciously-inserted analog circuitry delivers the Trojan payload, and the circuit is attacked. The attackers choice of Trojan placement within the circuit, as well as the design of the analog circuitry, determines the characteristics of the attack.",
     "ph.d._student_mentor(s)": "Md Rafid Muttaki (m.muttaki@ufl.edu)",
     "contact_email": "farimah@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_11"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_11"
   },
   {
     "project_title": "Automated Printed Circuit Board (PCB) Reverse Engineering via X-ray Tomography",
@@ -204,8 +516,8 @@
     "project_description": "Reverse engineering (RE) of electronics can be both reassuring and concerning. globalization of IC and PCB industries has resulted in well-documented concerns such as counterfeiting and hardware Trojan insertion. For such instances, RE represents an important tool for validating the performance, quality, authenticity, and integrity of electronics. Similarly, many of the critical systems and infrastructures in use today are decades old. Maintaining them requires electronic components that are no longer available. Replacing or redesigning the entire system may be too time consuming or expensive. However, through RE one can study the particular component/board in order to reproduce it and/or replace it with an alternative in the legacy system. On the other hand, RE can be responsible for just as many threats as solutions. RE can also be exploited to generate unauthorized clones or find weaknesses in the system. As part of this project, students will analyze 3D images of PCBs and develop a tool that processes the image (assigns different pixel values to traces, vias, etc.), stiches together results, extracts the PCB netlist, and converts the resulting images/netlist into a CAD file. Students should be able to program/script in Matlab or similar language. Familiarity with PCB design tools and pattern recognition would be useful but is not required.",
     "ph.d._student_mentor(s)": "Kun Yang (k.yang@ufl.edu) and Joey Botero (jbot2016@ufl.edu)",
     "contact_email": "dforte@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_12"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_12"
   },
   {
     "project_title": "Hardware Security Primitive Design, Simulation, and Evaluation",
@@ -222,8 +534,8 @@
     "project_description": "Integrated circuits(ICs) have access to more sensitive information (i.e., assets) than ever before. Such assets should be protected because their leakage can lead to fraud, extortion, and blackmail. Physical attacks to extract assets from ICs are becoming more prevalent, but few countermeasures exist to prevent them. This project involves development of circuits and sensors to detect such attacks and destroy assets when they are under attack. Interested students should have interest or experience with one or more of the following: analog circuit design, digital circuit design, SPICE simulation, PCB design, VHDL/Verilog, FPGA development and programming, Matlab or Python programming, machine learning and classification, and lab measurements. Students may learn how to use commercial CAD tools as part of this project, which can be helpful for future jobs.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "dforte@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_13"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_13"
   },
   {
     "project_title": "Modeling of Monolayer Transistors for Flexible Electronics",
@@ -240,8 +552,8 @@
     "project_description": "Two-dimensional (2D) monolayer semiconductor materials beyond graphene, such as layered transition metal dichalcogenides (TMDCs) like molybdenum disulfide (MoS2), are promising for many potential applications in nanoelectronics, flexible electronics, and optoelectronics due to their mechanical bendability, atomically thin thickness, and excellent intrinsic carrier transport properties. The student will be engaged on working together with the Ph.D. students in the PI\u2019s group to develop computer-aided design (CAD) tools for electronics based on 2D monolayer materials. The CAD tools will be deployed and widely disseminated to users worldwide through the nanoHUB (www.nanohub.org)",
     "ph.d._student_mentor(s)": "Runlai Wan, wanrunlai@ufl.edu",
     "contact_email": "guoj@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_14"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_14"
   },
   {
     "project_title": "Quantum Computing",
@@ -258,8 +570,8 @@
     "project_description": "The research project involves develop modeling, simulation, and visualization tools for quantum computing technologies. We are specifically interested in spin-based quantum computing. The project is supported by National Science Foundation.",
     "ph.d._student_mentor(s)": "Tong Wu",
     "contact_email": "guoj@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_15"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_15"
   },
   {
     "project_title": "Machine Learning and Wave Motion",
@@ -276,8 +588,8 @@
     "project_description": "In this research project, we learn to apply machine learning to physical problems that utilize waves. These may be acoustic waves, ultrasonic waves, or electromagnetic waves. Student researchers will learn to define problems, perform experiments, and design machine learning algorithms.",
     "ph.d._student_mentor(s)": ": N/A",
     "contact_email": "joel.harley@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_16"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_16"
   },
   {
     "project_title": "Validating the use of wearable technology and machine learning for exposure assessment of workers to uneven surfaces",
@@ -294,8 +606,8 @@
     "project_description": "The two main goals of this pilot project proposal are to: 1) determine if workers\u2019 gait behavior as measured by wearable sensors in real workplace differs significantly on different walking surfaces experienced by typical workers; and, 2) determine if artificial deep learning network algorithms can detect walking surface categories using signals from wearable sensors mounted on workers\u2019 body during typical walking tasks.",
     "ph.d._student_mentor(s)": "TBD based on project and availability",
     "contact_email": "boyihu@ise.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_17"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_17"
   },
   {
     "project_title": "Low-light robot perception",
@@ -311,8 +623,8 @@
     "project_description": "We are working on developing robust sensing and estimation capabilities of on-device cameras in thermal, acoustic, and spectral domains. In particular, our focus is on low-power cameras used by autonomous underwater robots, firefighters wearables, and sky-quality-meters. We are launching projects with both hardware and software components as well as their domain implementations. The research areas intersect the fields of robotics, computer vision, and deep learning.",
     "ph.d._student_mentor(s)": "Boxiao Yu; (boxiao.yu@ufl.edu)",
     "contact_email": "jahid@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_18"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_18"
   },
   {
     "project_title": "Low-light robot perception",
@@ -328,8 +640,8 @@
     "project_description": "Focusing on the Florida coastlines, we are working toward developing technological solutions to address the practicalities of important subsea applications such as monitoring water quality, surveying seabed or seagrass habitats, and farming artificial reefs. We are exploring deployable systems for both passive sensing and prediction (of hazards or salient events) as well as coordinated active tracking by autonomous mobile robots. To achieve this, we are trying to solve several research problems in the domains of robot vision, deep visual perception algorithms, and thermal/sonar imaging literature.",
     "ph.d._student_mentor(s)": "Catalina Murray; (catalinamurray@ufl.edu)",
     "contact_email": "jahid@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_19"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_19"
   },
   {
     "project_title": "Electromechanical Energy Conversion, Power Electronics, and Renewable Energy",
@@ -340,14 +652,14 @@
     "prerequisites": "Varied by projects, circuits, electromagnetic field, signals and systems, power electronics",
     "credit": "0-3 credits via EGN 4912",
     "stipend": "Paid positions are available based on qualifications Application Requirements: Resume, UF unofficial transcripts, and statement of research interest",
-    "application_requirements": "Resume, UF unofficial transcripts, and statement of research interestApplication Deadline:noneWebsite:https://gem.ece.ufl.eduProject Description:Research interests include electric machines, power electronics, and feedback control. Applications include electric vehicles, electric airplanes, space exploration, renewable energy, etc. Please visit the website for descriptions of specific openings.",
+    "application_requirements": "Resume, UF unofficial transcripts, and statement of research interest",
     "application_deadline": "none",
     "website": "https://gem.ece.ufl.edu",
     "project_description": "Research interests include electric machines, power electronics, and feedback control. Applications include electric vehicles, electric airplanes, space exploration, renewable energy, etc. Please visit the website for descriptions of specific openings.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "baoyun.ge@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_20"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_20"
   },
   {
     "project_title": "Wireless Powering Brain Implants",
@@ -363,8 +675,8 @@
     "project_description": "The major goal of this project is to develop the next generation of brain stimulation devices for understanding and treating mental health illnesses and brain disorders. This project seeks to develop chronic ultra-small microdevices which are minimally-invasive, wireless, battery-less, and injectable. These devices are distributed across the brain to form a wireless network system for precise neural modulation. Since the harvested power is scarce for ultra-small receiver (Rx) coils, the efficiency of a 2-coil wireless link must be optimized. In this project the student will design a miniaturized flexible PCB to efficiently deliver power to the Tx coil. Students involved in this research project will learn about the field of neuroengineering, PCB design, and RF circuits. Please visit the website for more details.",
     "ph.d._student_mentor(s)": "Various",
     "contact_email": "a.khalifa@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_21"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_21"
   },
   {
     "project_title": "Transcranial Magnetic Stimulation",
@@ -380,8 +692,8 @@
     "project_description": "The clinical use of transcranial magnetic stimulation (TMS) has been a prominent achievement in the field of neuroscience in the past two decades. In this research, to improve stimulation depth and focality, we propose a novel TMS technique which we call magnetic temporal interference (MTI). Students in this project will build a solenoid that will eventually be used to stimulate and target deep brain regions of large animal models (non-human primate, sheep, pigs).",
     "ph.d._student_mentor(s)": "Various",
     "contact_email": "a.khalifa@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_22"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_22"
   },
   {
     "project_title": "Artificial Fovea Cameras and Sensors",
@@ -398,8 +710,8 @@
     "project_description": "Our eyes \u201cfoveate\u201d or place sensitivity of the highest resolution at important locations in a scene. I am interested in (a) Building cameras/sensors that do the same, (b) Creating algorithms to control such cameras and (c) Demonstrating compelling applications.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "sjkoopal@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_23"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_23"
   },
   {
     "project_title": "Simulation of Semiconductor Devices",
@@ -416,10 +728,11 @@
     "project_description": "We have developed software that predicts semiconductor device behavior in a wide range of conditions and applications. We have opportunities to work with sensors, high performance, and nano-device applications.",
     "ph.d._student_mentor(s)": "n/a",
     "contact_email": "mlaw@honors.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_24"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_24"
   },
   {
+    "project_title": "All-Optical Naval Aircraft Networks",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Janise McNair, mcnair@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -433,10 +746,11 @@
     "project_description": "We are designing high-speed fiber optic networks to replace current copper wire networks on navel aircraft (and later standardize the process for commercial aircraft). We need students to help us test different network designs by doing short-term research studies, hands-on hardware projects for proof-of-concept tests, or software/programming projects for network simulations.",
     "ph.d._student_mentor(s)": "TBD",
     "contact_email": "mcnair@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_25"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_25"
   },
   {
+    "project_title": "Distributed Space Networks",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Janise McNair, mcnair@ece.ufl.edu",
     "terms_available": "Summer",
@@ -450,10 +764,11 @@
     "project_description": "Space is the new frontier for data collection, processing and dissemination. In this project, researchers will study how to deliver data from a heterogeneous set of nodes (space craft, space station, satellites, etc.) to the appropriate destination with the requested bandwidth and quality of service. This project also allows the student to do multi-disciplinary research with astronomers, remote sensing engineers, aerospace engineers and physicists.",
     "ph.d._student_mentor(s)": "Allen Starke",
     "contact_email": "mcnair@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_26"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_26"
   },
   {
+    "project_title": "Distributed Cross Layer Networking for Smart Grid Security",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Janise McNair, mcnair@ece.ufl.edu",
     "terms_available": "Fall, Spring, and Summer",
@@ -465,8 +780,8 @@
     "project_description": "As the traditional power grid transitions into the use of smart grid technology, real-time system monitoring becomes more vulnerable to cyber-attacks like false data injection. This project pursues a cross-layer approach to smart grid security that includes power analysis, machine learning, and software defined networks. Students on this project will work on skills for developing network management policies using SDN, traffic monitoring and anomaly detection/identification.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "mcnair@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_27"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_27"
   },
   {
     "project_title": "Distributed Control Design for Balancing the Grid Using Flexible Loads",
@@ -483,8 +798,8 @@
     "project_description": "Inexpensive energy from the wind and the sun comes with unwanted volatility, such as ramps with the setting sun or a gust of wind. Controllable generators have managed supply-demand balance of power in the past, but this is becoming increasingly costly with increasing penetration of renewable energy. The goal of this project is to create a science for \u201cdemand dispatch\u201d that will create virtual energy storage from flexible loads. By design, the grid-level services from flexible loads will be as controllable and predictable as a generator or fleet of batteries. The potential economic impact of these new resources is enormous. California plans to spend billions of dollars on batteries that will provide only a small fraction of the balancing services that can be obtained using demand dispatch. The potential impact on society is enormous: a sustainable energy future is possible with the right mix of infrastructure and control systems.",
     "ph.d._student_mentor(s)": "Neil Cammardella, ncammardella@ufl.edu",
     "contact_email": "meyn@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_28"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_28"
   },
   {
     "project_title": "High Power Radio Waves in the Ionosphere",
@@ -501,8 +816,8 @@
     "project_description": "The HAARP observatory is located in Gakona, Alaska, and it operates a high power transmitter to perform ionopspheric heating experiments. These high power radio waves interact with the lower ionosphere and produce interesting nonlinear effects that mimic natural activity. A large number of high power heating experiments were performed between 2010 and 2014, and we are interested in searching our vast database for unexpected discoveries.",
     "ph.d._student_mentor(s)": "AJ Erdman, ajerdman@ufl.edu",
     "contact_email": "moore@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_29"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_29"
   },
   {
     "project_title": "MIST Makers",
@@ -518,8 +833,8 @@
     "project_description": "The MIST Makers is an undergraduate effort within the UF\u2019s Department of Electrical and Computer Engineering. Students volunteer to work in teams to develop creative smart systems that integrate sensors, computing, wireless connectivity and power management, commonly known as the Internet of Things. Now in its second year, students can develop practical, problem-solving and design skills while working on hardware projects to improve quality of life or address real-world problems. Students also gain exposure to the MIST Center\u2019s member companies looking to recruit top talent.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "nishida@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_30"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_30"
   },
   {
     "project_title": "Predicting Stimulation and Recording Performance of Neural Interfaces",
@@ -535,8 +850,8 @@
     "project_description": "The ability of amputees to control state-of-the-art prosthetic limbs (e.g., like Luke Skywalker\u2019s arm) and doctors to deliver deep-brain-stimulation (DBS) therapy to treat the symptoms of Parkinson\u2019s disease are dependent on the design and operation of neuro-electronic interfaces. In this project, students will combine finite-element-method (FEM) simulations with software-based models of neuron excitability to quantitatively predict the performance of state-of-the-art neuro-electronic interfaces. This effort will use an established modeling framework to explore the parameter space of electrode design and inform the improved design of future neural interfaces. Students involved in this research project will learn about physics-based computational modeling in the field of neuroengineering.",
     "ph.d._student_mentor(s)": "Various",
     "contact_email": "erin.patrick@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_31"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_31"
   },
   {
     "project_title": "Visualization for Software Defined Radio",
@@ -553,8 +868,8 @@
     "project_description": "Students will work with Javascript, CSS, HTML, and Python to build tools that help visualize the usage of spectrum and flow of information in wireless networks.",
     "ph.d._student_mentor(s)": "n/a",
     "contact_email": "jshea@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_32"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_32"
   },
   {
     "project_title": "Measurement of Nanodevices",
@@ -570,8 +885,8 @@
     "project_description": "Set-up and perform electrical measurements on nanodevices",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "antural@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_33"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_33"
   },
   {
     "project_title": "Variable Frequency Drive Systems EMI Modeling and Reduction",
@@ -588,8 +903,8 @@
     "project_description": "Learn research skill with PhD students in ongoing research on the EMI Modeling and Reduction for Grid Tied Variable Frequency Motor Drive Systems.",
     "ph.d._student_mentor(s)": "Le Yang (yangleMike@ufl.edu) and Hui Zhao (zhaohui@ufl.edu)",
     "contact_email": "SHUO.WANG@ECE.UFL.EDU",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_34"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_34"
   },
   {
     "project_title": "FFT on GPU",
@@ -606,10 +921,11 @@
     "project_description": "Develop and implement a FFT in C Cuda to run on a GPU. The FFT should provide a significant speed increase over CPU FFT applications.",
     "ph.d._student_mentor(s)": "David Greene, djgreene@ufl.edu",
     "contact_email": "twong@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_35"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_35"
   },
   {
+    "project_title": "Extracting Configuration Parameter Interactions using Static Analysis",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Tuba Yavuz, tuba@ece.ufl.edu",
     "terms_available": "Fall",
@@ -623,10 +939,11 @@
     "project_description": "This project involved using static program analysis to identify configuration parameters that interacted through on data-flow and/or control-flow dependency. The static analysis has been implemented using the WALA analysis framework. As a case study we chose Apache Hadoop as tuning configuration parameters is a real challenge for this system. Experimental results showed that static analysis could infer some of the known interactions among performance related parameters.",
     "ph.d._student_mentor(s)": "n/a",
     "contact_email": "tuba@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_36"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_36"
   },
   {
+    "project_title": "GUI for SMACK Models",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Tuba Yavuz, tuba@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -640,8 +957,8 @@
     "project_description": "This project involves designing and implementing a GUI for a new modeling language, SMACK, that is based on state machines with callback mechanism. The GUI should facilitate creating new SMACK models and navigating existing ones. SMACK is integrated with automated verification and the GUI should also support navigation of counter-example paths that explain erroneous executions.",
     "ph.d._student_mentor(s)": "Farhaan Fowze, farhaan104@ufl.edu",
     "contact_email": "tuba@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_37"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_37"
   },
   {
     "project_title": "Health Monitoring and Biting Force Detection Using a Smart Mouthguard",
@@ -658,8 +975,8 @@
     "project_description": "A smart mouthguard integrated with multiple sensors is utilized for multiple purposes such as dental protection from nocturnal Bruxism and during sports and fitness, which is its original function, and health monitoring via integrated sensors, which is an advanced function. The sensing module is integrated with a microprocessor, a Bluetooth wireless module, and a battery. A prototype module has been demonstrated while sensor refinements for a strain gauge sensor for biting force detection and an infrared (IR) sensor for vital sign monitoring are under investigation. A strain gauge sensor can be used. Biting during Bruxism produces a pressure of about 100lbs to 200lbs i.e, 2000kPa. Hence, the sensor should be able to withstand this pressure level with a reasonable resolution. For IR sensing, a commercial product is accommodated. Efforts for signal processing will be needed.",
     "ph.d._student_mentor(s)": "Todd Schumann, fhghfjk@ufl.edu",
     "contact_email": "ykyoon@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_38"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_38"
   },
   {
     "project_title": "Machine Learning and Pattern Recognition",
@@ -676,10 +993,11 @@
     "project_description": "The Machine Learning and Sensing Laboratory develops machine learning methods for autonomously analyzing and understanding sensor data. We investigate and develop machine learning, pattern recognition, computational intelligence, signal processing, and information fusion methods for application to sensing. Applications we have studied include landmine and explosive object detection, automated plant phenotyping, sub-pixel target detection, and underwater scene understanding. We have developed algorithms for ground-penetrating radar, hyperspectral imagery, electromagnetic induction data, synthetic aperture SONAR, and minirhizotron imagery. Our specific projects vary from semester to semester. Please see our website for a listing of current projects: https://faculty.eng.ufl.edu/alina-zare/machine-learning-sensing-lab/",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "azare@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_39"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_39"
   },
   {
+    "project_title": "Biomedical Applications of Magnetic Nanoparticles",
     "department": "Biomedical Engineering, Chemical Engineering, Electrical Engineering, Computer Science and Engineering, Materials Science and Engineering, Mechanical Engineering",
     "faculty_mentor": "Carlos Rinaldi-Ramos, carlos.rinaldi@ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -693,10 +1011,11 @@
     "project_description": "The Rinaldi lab is interested in biomedical applications of magnetic nanoparticles. We combine particle synthesis, modification, and characterization and fundamental understanding of response to magnetic actuation to advance applications in biomedical imaging, therapeutic delivery, and nanoscale thermal therapy. The research is interdisciplinary, combining concepts from biomedical, chemical, electrical, and materials science and engineering. Current efforts focus on developing tracers for magnetic particle imaging (MPI), an exciting new biomedical imaging modality that allows for non-invasive, unambiguous, and quantitative imaging of the in vivo distribution of superparamagnetic iron oxide nanoparticle tracers. This research involves nanoparticle synthesis and characterization, cell culture, animal studies, image analysis, 3D printing, and computer programming. Students interested in any of these aspects are encouraged to apply.",
     "ph.d._student_mentor(s)": "varies",
     "contact_email": "carlos.rinaldi@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_40"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_40"
   },
   {
+    "project_title": "Package security & Backside protection",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Navid Asadi, nasadi@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -709,10 +1028,11 @@
     "project_description": "Since the inception of mass-produced electronic devices in the 1970s, IC packaging has been a vital piece of the electronics supply chain. Packaging reliability has been discussed widely in both industry and academia. However, packaging security assessment is barely addressed in such communities. Malicious changes in packaging parameters by a manufacturer can result in undetected features that cause chip failure. This results in disastrous consequences when these changed chips go to critical applications such as space, military, hospitals, powerplants, etc. In this project, the first step is to understand the structure and material composition of different kinds of IC packaging. To achieve such understanding, the project involves evaluating the packaging with the physical inspection methods in our lab to see how the security vulnerabilities of IC packaging can be generated and exploited. Based on security issues, different kinds of protection methods will be developed later. One such attack vector is a backside attack, which is both cheap and simple. With a device as simple as a laser pointer, attackers can hack into the chips. By applying a certain wavelength laser on the chip backside, hackers can easily extract useful information or inject fault. This project aims to prevent this kind of attack happens. In the project, learning and understanding of backside attack will be the first step, and students will get a chance to do backside attacks by themselves in the lab. Based on their own background and knowledge, they can develop their own backside protection methods.",
     "ph.d._student_mentor(s)": "Chengjie Xi and John True",
     "contact_email": "nasadi@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_41"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_41"
   },
   {
+    "project_title": "Automated Volumetric Analysis via X-Ray Computed Tomography",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Navid Asadi, nasadi@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -725,10 +1045,11 @@
     "project_description": "X-Ray Computed Tomography (X-Ray CT) is a rapidly advancing field due to the advent of next-generation tools such as Micro-CT & Nano-CT. In addition to hardware advances, there are software improvements that offer increased speed and resolution for fast failure analysis. Auto-3D is the refining and incorporation of these advanced techniques into the hardware assurance and reverse engineering processes and flows used in the cybersecurity industry. The current methods of hardware verification for microelectronics involves destructive techniques such as cross sectioning and delayering to analyze with visual methods. Non-destructive volumetric methods such as X-ray analysis has been adequate for simple electronics designs. However, smaller internal circuitry and its increasing complexity creates many x-ray imaging issues for non-destructive internal analysis. These imaging issues include artifacts such as photon starvation due to the entire absorption of x-rays by dense materials such as metals from circuitry, components, or heat/EMF shields. The Auto-3D project is focused on improving computational runtime speed and resolution of the reconstruction of 2D images into 3D volumes, optimizing the scan parameters of x-ray imaging for electronics through laboratory testing and computer simulation, and automated segmentation of 3D volumes and performing analysis of noise and errors via machine learning. As part of this project: students will work together to research and develop solutions, facilitate learning outcomes aligned with future academic research or industry requirements, build data-driven designs and proposals that improve upon known research in the field, and interact with F.I.C.S. faculty and facilities through presentations and lab experiments.",
     "ph.d._student_mentor(s)": "John True",
     "contact_email": "nasadi@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_42"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_42"
   },
   {
+    "project_title": "Automated Bill of Material Extraction",
     "department": "Electrical and Computer Engineering",
     "faculty_mentor": "Navid Asadi, nasadi@ece.ufl.edu",
     "terms_available": "Fall, Spring, Summer",
@@ -741,8 +1062,8 @@
     "project_description": "The goal of AutoBoM is to automatically extract a Bill of Materials (BoM), the list of all components on a printed circuit board (PCB) given an image of the board. The extracted BoM can then be used for reverse engineering and hardware assurance purposes. For instance, such a BoM can be compared to the known list of materials for the same sample, showing any discrepancy resulting from malicious tampering. When no reference BoM is present, verification becomes much more difficult. In these cases, AutoBoM can generate a tentative circuit schematic and cross-reference it against common design metrics. In these cases, Trojans or other manipulations will appear as violations to these standards. AutoBoM involves two primary research domains: the initial stages of image acquisition and preprocessing, followed by the use of machine learning models for component detection, classification, and identification. Image acquisition and processing inputs to the AutoBoM process include several 2D optical images of PCB surfaces. Various image processing and computer vision algorithms then extract information from these images necessary to train machine learning networks. Several subdomains are important in this stage to analyze the image data. Image segmentation, or breaking an image into distinct regions, assists in gathering ground truth data which trains machine learning models in how to detect components on a PCB image. Next, standard preprocessing procedures such as morphological processing, bandpass filtering, structural analysis, and more determine which portions of the image may require in-depth evaluation. This feedback serves two important functions. First, it determines which neural network architectures are appropriate for different stages of the AutoBoM process (e.g. component detection, defect analysis, etc.). Second, it assists in formatting the data as inputs to these networks, which speeds up learning and processing times. Machine learning models for detection, classification, identification Inputs to the machine learning side of the AutoBoM process include the important computer vision features extracted from the PCB images (e.g. colors, shapes, and textures). Then, a multi-stage machine learning methodology is applied. First, the machine learning algorithms detect the location of the components within the PCB images. Then, the algorithm determines the type of each component (e.g. resistor, capacitor, IC). Finally, AutoBoM leverages information such as on-component text, board text, and colors to uniquely identify each component. The end result is a BoM specific enough to purchase all required components necessary to reverse engineer the PCB.",
     "ph.d._student_mentor(s)": "Nathan Jessurun and Olivia Paradis",
     "contact_email": "nasadi@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_43"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_43"
   },
   {
     "project_title": "Integrated Radio-Frequency Filters for 5G Wireless",
@@ -758,8 +1079,8 @@
     "project_description": "We are an multi-disciplinary research group targeting creation of novel integrated filters for the modern wireless commination systems. This project includes design and analysis chip-scale filters operating at ultra- and super-high frequencies. These filters are essential for operation of our smart-phones, by enabling secure access to wireless spectrum for high-speed data communication. The filters are operating based on exciting low-loss mechanical resonance in nano-scale silicon structures. The mechanical vibration will be converted to electrical domain using piezoelectric transducers. The role of the candidate will be designing the equivalent circuit models for these electro-mechanical filters, and also help with measurement of actual filter chips.",
     "ph.d._student_mentor(s)": "Various",
     "contact_email": "rtabrizian@ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_44"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_44"
   },
   {
     "project_title": "Machine Learning and Data Science",
@@ -775,8 +1096,8 @@
     "project_description": "Students will work with Python to perform data collection and curation with the goal to develop machine learning algorithms in different applications. Students will learn about experimental design in machine learning, develop technical skills such as version control, Python and machine learning.",
     "ph.d._student_mentor(s)": "N/A",
     "contact_email": "catiaspsilva@ece.ufl.edu",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_45"
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_45"
   },
   {
     "project_title": "Remote Access to Side Channel (RASC) v4 System Design",
@@ -786,12 +1107,12 @@
     "credit": "0-3",
     "stipend": "Depends on availability of funds",
     "application_requirements": "Resume, UF unofficial transcripts, Faculty interview E-mail applications materials to Dr. Forte,",
-    "application_deadline": "N/AWebsite(s):https://dforte.ece.ufl.edu/Project Description:Remote access to side-channel (RASC) systems have been developed and tested in our group to detect malware and other anomalies on critical systems from power and EM measurements in real-time. To date, RASC has monitored side-channels on an Arduino UNO running at 1MHz. This project involves development of a new version of RASC that can monitor more complex microcontrollers , e.g., 32 bit running at 200MHz+. The design shall be broken down into 3 parts: (1) hardware design where a new PCB and bill of materials will be created resulting in a system with higher sampling rate, resolution, and/or processing capabilities; (2) machine learning and classification algorithm development where captured side-channels will be used to classify instructions being run on a microcontroller; and (3) hardware description language (HDL) design where the algorithm(s) will be mapped to digital signal processors and/or FPGAs. Students need only have the experience and/or interest in one part of the project in order to participate.",
+    "application_deadline": "N/A",
     "project_description": "Remote access to side-channel (RASC) systems have been developed and tested in our group to detect malware and other anomalies on critical systems from power and EM measurements in real-time. To date, RASC has monitored side-channels on an Arduino UNO running at 1MHz. This project involves development of a new version of RASC that can monitor more complex microcontrollers , e.g., 32 bit running at 200MHz+. The design shall be broken down into 3 parts: (1) hardware design where a new PCB and bill of materials will be created resulting in a system with higher sampling rate, resolution, and/or processing capabilities; (2) machine learning and classification algorithm development where captured side-channels will be used to classify instructions being run on a microcontroller; and (3) hardware description language (HDL) design where the algorithm(s) will be mapped to digital signal processors and/or FPGAs. Students need only have the experience and/or interest in one part of the project in order to participate.",
     "contact_email": "dforte@ece.ufl.edu",
-    "department": "ece",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_46"
+    "department": "electrical_and_computer_engineering",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_46"
   },
   {
     "project_title": "Neural Electrode Design",
@@ -801,11 +1122,101 @@
     "credit": "0-3 credits via EGN 4912",
     "stipend": "$15 per hour",
     "application_requirements": "Basic online application, Faculty interview,",
-    "application_deadline": "N/AWebsite(s):N/AProject Description:This project aims to design a device for simultaneous D wave monitoring and cerebrospinal fluid (CSF) diversion in spinal cord injury, similar to intracranial pressure monitoring in brain injury. The D wave, which reflects descending action potentials in corticospinal tracts after cortical stimulation, is a key marker for predicting neurological outcomes. Since D wave monitoring requires accessing the subdural space, this project explores the potential of combining it with CSF diversion, an intervention increasingly used in managing ischemic and traumatic spinal cord injuries.",
+    "application_deadline": "N/A",
     "project_description": "This project aims to design a device for simultaneous D wave monitoring and cerebrospinal fluid (CSF) diversion in spinal cord injury, similar to intracranial pressure monitoring in brain injury. The D wave, which reflects descending action potentials in corticospinal tracts after cortical stimulation, is a key marker for predicting neurological outcomes. Since D wave monitoring requires accessing the subdural space, this project explores the potential of combining it with CSF diversion, an intervention increasingly used in managing ischemic and traumatic spinal cord injuries.",
     "contact_email": "a.khalifa@ufl.edu",
-    "department": "ece",
-    "source_file": "./data/raw_html/ece.html",
-    "project_id": "ece_47"
+    "department": "electrical_and_computer_engineering",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/electrical-and-computer-engineering/",
+    "project_id": "electrical_and_computer_engineering_47"
+  },
+  {
+    "project_title": "The Ability to Address Complex Socio-Technical Systems",
+    "department": "Engineering Education",
+    "faculty_mentor": "",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 2 students a term",
+    "prerequisites": "Interest in Engineering Education",
+    "credit": "1-2 credits via EGN 4912",
+    "stipend": "None unless selected for University Scholars",
+    "application_requirements": "Basic online application, Resume, UF unofficial transcripts, Faculty interview, email one pdf file with all application requirements to John Mendoza-Garcia, jmendozagarcia@ufl.edu",
+    "application_deadline": "March 1 for Summer and Fall terms and November 1 for the Spring Term",
+    "website": "http://www.johnmendozagarcia.com",
+    "project_description": "This project is investigating the Ability to Address Complex Socio-Technical Systems. This ability encompasses what an engineering student needs to learn to be able to create engineering solutions that satisfy the needs and expectations of different stakeholders (e.g. customers, regulation entities, boards of directors, etc). Research questions: What is this ability? How is it learned or developed? How can it be assessed? How can it be effectively taught? Research methods: Qualitative to understand its learning and generate the assessment tools (phenomenography and content analysis). Quantitative to assess the effectiveness of its teaching, and standardize its assessment.",
+    "ph.d._student_mentor(s)": "N/A",
+    "contact_email": "jmendozagarcia@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/institute-for-excellence-in-engineering-education/",
+    "project_id": "institute_for_excellence_in_engineering_education_1"
+  },
+  {
+    "project_title": "Engineering communities enacting transformational change addressing the social implications of the engineering practice",
+    "department": "Engineering Education",
+    "faculty_mentor": "",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 2 students a term",
+    "prerequisites": "Interest in Engineering Education and acquiring research skills",
+    "credit": "1-2 credits via EGN 4912",
+    "stipend": "None unless selected for University Scholars. Benefit: Potentially getting a publication.",
+    "application_requirements": "Basic online application. Send an email to Dr. Rivera at rivera.jimenez@eng.ufl.edu with the following: 1) your resume; 2) a cover letter or statement (2 pages max) describing your qualifications and motivation for the job; and 3) UF unofficial transcripts. Interviews via Zoom are expected to start as soon as applications are received.",
+    "application_deadline": "Open until the drop add period for each semester until all positions are filled.",
+    "website": "https://theengineeringprofessor.org/research/",
+    "project_description": "Our group is looking for an undergraduate student to develop a rigorous systematic literature review summarizing the best practices for engineering communities enacting transformational change for social justice. Transformational change refers to a frame-breaking change that completely alters the current operating structure, such as processes, people, and technology. A systematic review is defined as a review of the evidence on a clearly formulated question that uses systematic and explicit methods to identify, select, and critically appraise relevant primary research and extract and analyze data from the studies included in the review. Social implications in the engineering practice may involve concepts of peace/non-peace, gender equality, care for the environment, poverty, and public safety, and social justice. The research will include an in-depth literature review using commonly known databases (e.g., Web of Science, Academic Search Premier, Scopus), the use of analysis software (e.g., Endnote, MAXQDA, Covidence), and dissemination (i.e., journal publication and presentation). This opportunity will require the student to manage an undergraduate research project by dedicating around 10-15 hours per week. The participant will also gain valuable experience that will make them a more qualified candidate upon graduation. The student will end this experience with a written research portfolio including but not limited to a research proposal, report, literature review, and blog pieces.",
+    "ph.d._student_mentor(s)": "N/A",
+    "contact_email": "rivera.jimenez@eng.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/institute-for-excellence-in-engineering-education/",
+    "project_id": "institute_for_excellence_in_engineering_education_2"
+  },
+  {
+    "project_title": "Systematic Review on the social implications of the engineering practice",
+    "department": "Engineering Education",
+    "faculty_mentor": "",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 2-3 students a term",
+    "prerequisites": "Interest in Engineering Education and acquiring research skills",
+    "credit": "1-2 credits via EGN 4912",
+    "stipend": "None unless selected for University Scholars.",
+    "application_requirements": "Basic online application. Send an email to Dr. Rivera at rivera.jimenez@eng.ufl.edu with the following: 1) your resume; 2) a cover letter or statement (2 pages max) describing your qualifications and motivation for the job; and 3) UF unofficial transcripts. Interviews via Zoom are expected to start as soon as applications are received.",
+    "application_deadline": "The last day of drop add period for all terms.",
+    "website": "https://theengineeringprofessor.org/research/",
+    "project_description": "Goal: Complete a systematic Review for publication submission in February 2022 on the topic of social implications of the engineering practice",
+    "ph.d._student_mentor(s)": "N/A",
+    "contact_email": "rivera.jimenez@eng.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/institute-for-excellence-in-engineering-education/",
+    "project_id": "institute_for_excellence_in_engineering_education_3"
+  },
+  {
+    "project_title": "Influence National Professional Societies in Facilitating Chemical Engineering Faculty Agency",
+    "department": "Engineering Education",
+    "faculty_mentor": "",
+    "terms_available": "Fall, Spring, Summer",
+    "student_level": "Freshman, Sophomore, Junior, Senior, 2-3 students a term",
+    "prerequisites": "Interest in Engineering Education and acquiring research skills",
+    "credit": "1-2 credits via EGN 4912",
+    "stipend": "None unless selected for University Scholars.",
+    "application_requirements": "Basic online application. Send an email to Dr. Rivera at rivera.jimenez@eng.ufl.edu with the following: 1) your resume; 2) a cover letter or statement (2 pages max) describing your qualifications and motivation for the job; and 3) UF unofficial transcripts. Interviews via Zoom are expected to start as soon as applications are received.",
+    "application_deadline": "The last day of drop add period for all terms. Contact Dr. Rivera to verify if all positions were filled.",
+    "website": "https://theengineeringprofessor.org/research/ or https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106206&HistoricalAwards=false",
+    "project_description": "Our group is looking for an undergraduate student to coordinate a new NSF-funded qualitative research project exploring the strategic agency of chemical engineering faculty involved in professional societies (e.g., AIChE) as they transform their teaching practices. The student will directly assist the principal investigator in the literature review, ethically validate data collection methods, recruit the study faculty participants through AIChE, facilitate a workshop with the PI during AIChE national, and meet with the project advisory board.",
+    "ph.d._student_mentor(s)": "N/A",
+    "contact_email": "rivera.jimenez@eng.ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/institute-for-excellence-in-engineering-education/",
+    "project_id": "institute_for_excellence_in_engineering_education_4"
+  },
+  {
+    "project_title": "NSF International Research Experiences for Students in South Korea",
+    "department": "Engineering Education",
+    "faculty_mentor": "",
+    "terms_available": "Summer",
+    "student_level": "Sophomore, Junior, 2-3 UF students in Summer 2022",
+    "prerequisites": "1 semester of undergraduate research experience, any engineering discipline.",
+    "credit": "1-2 credits via EGN 4912",
+    "stipend": "$4000 for 8 weeks + international travel support",
+    "application_requirements": "Basic online application, Resume, UF unofficial transcripts, letters of recommendation, and statement of research interest; Online at https://nsfirika.org/",
+    "application_deadline": "January 15, 2022",
+    "website": "https://nsfirika.org/",
+    "project_description": "Interdisciplinary Research in Korea on Applied smart systems (IRiKA) for Undergraduate Students will provide a cohort of five US undergraduate students per year with the opportunity to conduct research for 8 weeks at Korea\u2019s top-ranked universities with state-of-the-art research facilities. IRiKA is a competitive program. Selected students will receive a stipend and international travel support. For more info, visit: https://nsfirika.org/",
+    "ph.d._student_mentor(s)": "N/A",
+    "contact_email": "gloriakim@ufl.edu",
+    "source": "https://www.eng.ufl.edu/graduate/current-students/undergraduate-research/research-projects/institute-for-excellence-in-engineering-education/",
+    "project_id": "institute_for_excellence_in_engineering_education_5"
   }
 ]
