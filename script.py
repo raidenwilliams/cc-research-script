@@ -20,7 +20,8 @@ def main():
         "projectId": os.getenv("NEXT_PUBLIC_FIREBASE_PROJECT_ID"),
         "storageBucket": os.getenv("NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET"),
         "messagingSenderId": os.getenv("NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID"),
-        "appId": os.getenv("NEXT_PUBLIC_FIREBASE_APP_ID")
+        "appId": os.getenv("NEXT_PUBLIC_FIREBASE_APP_ID"),
+        "collection_name": os.getenv("FIREBASE_COLLECTION_NAME"),
     }
     
     # Check if all necessary Firebase config values are present
@@ -92,7 +93,7 @@ def main():
     
     if upload_to_firebase == 'y':
         # Save data to Firebase
-        save_research_projects_to_firebase(db, all_processed_data)
+        save_research_projects_to_firebase(db, all_processed_data, firebase_config)
         print(f"Successfully uploaded all data to Firebase")
     else:
         print("Firebase upload skipped")
@@ -126,7 +127,6 @@ def process_research_projects(research_projects):
                 "terms_available": project.get("terms_available", ""),
                 "student_level": project.get("student_level", ""),
                 "website": project.get("website", ""),
-                "creator_id": "BYCOriwpW3XoOTRQRUPMccRmJiK2"  # Default creator ID
             }
             
             # Just add the firebase_project directly without specifying an ID
@@ -212,9 +212,9 @@ def parse_phd_mentor(mentor_string):
     
     return result
 
-def save_research_projects_to_firebase(db, processed_data):
+def save_research_projects_to_firebase(db, processed_data, firebase_config):
     """Save processed data to Firebase Firestore"""
-    collection_ref = db.collection("research-listings")
+    collection_ref = db.collection(firebase_config["collection_name"])
     
     if not isinstance(processed_data, list):
         print("Error: Expected processed data to be a list")
