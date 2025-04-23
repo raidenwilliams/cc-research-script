@@ -86,7 +86,7 @@ Place your JSON files containing research project data in the `data` directory. 
 
 3. If you choose to upload to Firebase, the script will:
    - Connect to Firebase using your service account credentials
-   - Upload each research listing to the "research-listings" collection
+   - Upload each research listing to the collection specified in the .env
    - Create an empty "applications" subcollection for each listing
 
 ## Data Structure
